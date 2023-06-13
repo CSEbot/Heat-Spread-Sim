@@ -1,3 +1,9 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+# CSCE 2110 Group Project - Heat Simulation Project 
+GitLab URL: https://csegitlab.engineering.unt.edu/rwb0140/csce-2110-group-project
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 **Instructions to run**
 1. Put Main.cpp into the cell machine
 2. Change Sim.txt following this template
@@ -14,13 +20,6 @@
 3. There should be one in there for you to mess with
 4. Put Sim.txt into the cell machine in the same folder as Main.cpp
 5. Run Main.cpp and it should ask for a file name, enter Sim as the file name
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-# CSCE 2110 Group Project - Heat Simulation Project 
-GitLab URL: https://csegitlab.engineering.unt.edu/rwb0140/csce-2110-group-project
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Anusha Majeed
 - Worked on equations
